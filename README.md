@@ -62,5 +62,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-##Laravel Currency Converter
+<h3>Laravel Currency Converter</h3>
 Thanks to [amrshawky](https://github.com/amrshawky) for creating the awesome [Laravel currency converter](https://github.com/amrshawky/laravel-currency) package that we have used in this course!!
